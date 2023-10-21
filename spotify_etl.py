@@ -25,8 +25,8 @@ def run_spotify_etl():
 
     # ------------Spotify Web Api-------------
     # client credentials
-    client_id = 'd30734dd944248088a702484a17a0e61'
-    client_secret = '3050f1cc55f94daeaa9b6d52ca9cea12'
+    client_id = 'Enter your client id'
+    client_secret = 'Enter your client secret'
 
     # --------------- Spotify Api Authorization------------
 
