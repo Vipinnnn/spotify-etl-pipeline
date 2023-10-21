@@ -1,5 +1,5 @@
 # SpotifyEtl
-# YouTube Data ETL with Airflow
+# Spotify Data ETL with Airflow
 
 ## Project Overview
 
